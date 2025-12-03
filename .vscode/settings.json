@@ -4,6 +4,10 @@
         "editor.formatOnSave": true,
         "files.autoSave": "onFocusChange"
     },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    },
     "files.associations": {
         "iosfwd": "cpp"
     }
