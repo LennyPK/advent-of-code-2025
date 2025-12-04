@@ -14,10 +14,6 @@ def readData():
 
 
 if __name__ == "__main__":
-    print(
-        "This implementation doesn't actually work. Use the Python implementation instead."
-    )
-    exit()
 
     data = readData()
 
